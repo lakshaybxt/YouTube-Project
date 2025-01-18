@@ -1,5 +1,6 @@
 .thumbnail {
     width: 300px;
+    display: block;
     /* height: 300px;
     object-fit: contain;
     object-position: right; */
@@ -7,4 +8,7 @@
 .search-bar {
     font-size: 20px;
     margin-left: 20px;
+}
+.video-title {
+    width: 300px;
 }
